@@ -1,0 +1,9 @@
+file,shots,input,counts
+Bug4Q_id25_origin,1024,'000z',{'111': 1024}
+Bug4Q_id25_origin,1024,'001z',{'111': 1024}
+Bug4Q_id25_origin,1024,'010z',{'111': 1024}
+Bug4Q_id25_origin,1024,'011z',{'111': 1024}
+Bug4Q_id25_origin,1024,'100z',{'111': 1024}
+Bug4Q_id25_origin,1024,'101z',{'111': 1024}
+Bug4Q_id25_origin,1024,'110z',{'111': 1024}
+Bug4Q_id25_origin,1024,'111z',{'111': 1024}

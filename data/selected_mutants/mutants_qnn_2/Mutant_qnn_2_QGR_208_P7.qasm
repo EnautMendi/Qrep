@@ -1,0 +1,23 @@
+OPENQASM 2.0;
+include "qelib1.inc";
+gate iswap q0,q1 { s q0; s q1; h q0; cx q0,q1; cx q1,q0; h q1; }
+qreg q[2];
+creg meas[2];
+u(pi/2,2.0,-pi) q[0];
+u(pi/2,2.0,-pi) q[1];
+cx q[0],q[1];
+p(9.172838187819544) q[1];
+cx q[0],q[1];
+u(pi/2,2.0,-pi) q[0];
+u(pi/2,2.0,-pi) q[1];
+iswap q[0],q[1];
+p(9.172838187819544) q[1];
+cx q[0],q[1];
+ry(0.7271911597342195) q[0];
+ry(0.26244291289966604) q[1];
+cx q[0],q[1];
+ry(0.9484429661729774) q[0];
+ry(0.9866257564223032) q[1];
+barrier q[0],q[1];
+measure q[0] -> meas[0];
+measure q[1] -> meas[1];

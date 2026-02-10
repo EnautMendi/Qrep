@@ -1,0 +1,8 @@
+Operator,Position,Gate,New_gate,New_params,New_qubits,Score,Evaluation,Timestamp,Total_exec_time,Total_evaluations,First_score,Overall_improvement,Overall_improvement_percent
+Replace,51,,ch,[],"(Qubit(QuantumRegister(8, 'q'), 6), Qubit(QuantumRegister(8, 'q'), 2))",335.1492522348705,5,1770037080.5507314,7205.438186407089,7,335.1492522348705,0.0,0.0
+Replace,23,cp,csx,[],"(Qubit(QuantumRegister(8, 'q'), 2), Qubit(QuantumRegister(8, 'q'), 4))",382.97414823792144,3,1770037049.1214957,7205.438186407089,7,335.1492522348705,-47.824896003050924,-14.269730779388858
+Replace,10,cp,tdg,[],"(Qubit(QuantumRegister(8, 'q'), 5),)",430.1006614716531,2,1770037045.9864275,7205.438186407089,7,335.1492522348705,-94.95140923678258,-28.33108192950442
+Add,41,cp,ch,[],"(Qubit(QuantumRegister(8, 'q'), 6), Qubit(QuantumRegister(8, 'q'), 1))",433.8139849478175,4,1770037049.8393474,7205.438186407089,7,335.1492522348705,-98.664732712947,-29.439043069624205
+Add,24,cp,swap,[],"(Qubit(QuantumRegister(8, 'q'), 5), Qubit(QuantumRegister(8, 'q'), 6))",446.14406430835834,1,1770037045.298232,7205.438186407089,7,335.1492522348705,-110.99481207348782,-33.118024681046684
+Replace,16,swap,cz,[],"(Qubit(QuantumRegister(8, 'q'), 0), Qubit(QuantumRegister(8, 'q'), 2))",498.02988568341425,6,1770037084.1300316,7205.438186407089,7,335.1492522348705,-162.88063344854373,-48.59943215221557
+Replace,21,cp,cz,[],"(Qubit(QuantumRegister(8, 'q'), 6), Qubit(QuantumRegister(8, 'q'), 3))",512.1849858193309,7,1770037086.8695982,7205.438186407089,7,335.1492522348705,-177.0357335844604,-52.82295347637979

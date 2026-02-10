@@ -1,0 +1,7 @@
+Position,Gate,Params,Qubits,Suspiciousness,KickedOut
+1,x,[],"(Qubit(QuantumRegister(3, 'q'), 1),)",0.0012330432730495921,No
+4,,[],"(Qubit(QuantumRegister(3, 'q'), 1),)",0.0008022702740668488,No
+3,,[],"(Qubit(QuantumRegister(3, 'q'), 0),)",0.0,No
+5,,[],"(Qubit(QuantumRegister(3, 'q'), 2),)",-0.01514474920290275,No
+2,ccx,[],"(Qubit(QuantumRegister(3, 'q'), 0), Qubit(QuantumRegister(3, 'q'), 1), Qubit(QuantumRegister(3, 'q'), 2))",-0.019543705799324868,No
+0,x,[],"(Qubit(QuantumRegister(3, 'q'), 0),)",-0.060560377376534004,No

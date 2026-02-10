@@ -1,0 +1,365 @@
+Executing: new_programs/selected_mutants/mutants_qnn_2/Mutant_qnn_2_QGR_208_P7.qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.03513388181543655
+The program is buggy.
+time out!
+=0/970543
+fixedList: []
+numCand: 970543
+numPatch: 0
+aveTime: N/A
+exit_reason: Timeout
+Executing: new_programs/selected_mutants/mutants_qnn_2/qnn_2_Mutant_Add_rx_P9_Q0_[5.497787143782138].qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.044747836726680215
+The program is buggy.
+time out!
+=0/637784
+fixedList: []
+numCand: 637784
+numPatch: 0
+aveTime: N/A
+exit_reason: Timeout
+Executing: new_programs/selected_mutants/mutants_qnn_2/qnn_2_Mutant_Remove_ry_P11_Q1.qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.02316168882042248
+The program is buggy.
+No unitary matrices!
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: No unitary matrices
+Executing: new_programs/selected_mutants/mutants_ae_3/ae_3_Mutant_Remove_h_P10_Q1.qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.06676088999297519
+The program is buggy.
+No unitary matrices!
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: No unitary matrices
+Executing: new_programs/selected_mutants/mutants_ae_3/ae_3_Mutant_Replace_t_P10_Q1_[].qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.06422525899067248
+The program is buggy.
+No unitary matrices!
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: No unitary matrices
+Executing: new_programs/selected_mutants/mutants_ae_3/Mutant_ae_3_QGI_45_P7.qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.06944120556174936
+The program is buggy.
+No unitary matrices!
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: No unitary matrices
+Executing: new_programs/selected_mutants/mutants_grover_4/grover_4_Mutant_Remove_p_P19_Q2.qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.06431193014879218
+The program is buggy.
+No unitary matrices!
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: No unitary matrices
+Executing: new_programs/selected_mutants/mutants_grover_4/Mutant_grover_4_QGI_367_P32.qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.06081320995099916
+The program is buggy.
+No unitary matrices!
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: No unitary matrices
+Executing: new_programs/selected_mutants/mutants_grover_4/Mutant_grover_4_QGR_833_P39.qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.06418964589888165
+The program is buggy.
+No unitary matrices!
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: No unitary matrices
+Executing: new_programs/selected_mutants/mutants_qwalk_5/Mutant_qwalk_5_QGI_339_P40.qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.05017781811800201
+The program is buggy.
+No unitary matrices!
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: No unitary matrices
+Executing: new_programs/selected_mutants/mutants_qwalk_5/qwalk_5_Mutant_Remove_x_P13_Q1.qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.05956641982210038
+The program is buggy.
+No unitary matrices!
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: No unitary matrices
+Executing: new_programs/selected_mutants/mutants_qwalk_5/qwalk_5_Mutant_Replace_t_P5_Q1_[].qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.06031800763628114
+The program is buggy.
+No unitary matrices!
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: No unitary matrices
+Executing: new_programs/selected_mutants/mutants_qaoa_6/qaoa_6_Mutant_Add_swap_P9_Q2_[].qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.1624494462967027
+The program is buggy.
+No unitary matrices!
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: No unitary matrices
+Executing: new_programs/selected_mutants/mutants_qaoa_6/qaoa_6_Mutant_Remove_rx_P12_Q4.qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.16756334169830647
+The program is buggy.
+No unitary matrices!
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: No unitary matrices
+Executing: new_programs/selected_mutants/mutants_qaoa_6/qaoa_6_Mutant_Replace_t_P20_Q3_[].qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.15755233023139015
+The program is buggy.
+No unitary matrices!
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: No unitary matrices
+Executing: new_programs/selected_mutants/mutants_vqe_7/Mutant_vqe_7_QGI_347_P25.qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.0922115340626334
+The program is buggy.
+No unitary matrices!
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: No unitary matrices
+Executing: new_programs/selected_mutants/mutants_vqe_7/Mutant_vqe_7_QGR_752_P24.qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.11695898528235077
+The program is buggy.
+No unitary matrices!
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: No unitary matrices
+Executing: new_programs/selected_mutants/mutants_vqe_7/vqe_7_Mutant_Remove_ry_P2_Q2.qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.09345320644759489
+The program is buggy.
+No unitary matrices!
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: No unitary matrices
+Executing: new_programs/selected_mutants/mutants_qpe_8/Mutant_qpe_8_QGI_296_P24.qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.13825406502136275
+The program is buggy.
+No unitary matrices!
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: No unitary matrices
+Executing: new_programs/selected_mutants/mutants_qpe_8/Mutant_qpe_8_QGR_841_P30.qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.1402314474604102
+The program is buggy.
+No unitary matrices!
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: No unitary matrices
+Executing: new_programs/selected_mutants/mutants_qpe_8/qpe_8_Mutant_Remove_h_P6_Q6.qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.16948790770977054
+The program is buggy.
+No unitary matrices!
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: No unitary matrices
+Executing: new_programs/selected_mutants/mutants_qft_9/Mutant_qft_9_QGR_708_P12.qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.4146969792970281
+The program is buggy.
+No unitary matrices!
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: No unitary matrices
+Executing: new_programs/selected_mutants/mutants_qft_9/qft_9_Mutant_Add_swap_P11_Q7_[].qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.2896605855214385
+The program is buggy.
+No unitary matrices!
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: No unitary matrices
+Executing: new_programs/selected_mutants/mutants_qft_9/qft_9_Mutant_Remove_cp_P23_Q6.qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.4219854738215761
+The program is bug-free.
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: Equivalent program
+Executing: new_programs/selected_mutants/mutants_wstate_10/wstate_10_Mutant_Add_rxx_P20_Q4_[1.5707963267948966].qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.17178600294815502
+The program is buggy.
+No unitary matrices!
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: No unitary matrices
+Executing: new_programs/selected_mutants/mutants_wstate_10/wstate_10_Mutant_Remove_ry_P1_Q1.qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.17190930598232407
+The program is buggy.
+No unitary matrices!
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: No unitary matrices
+Executing: new_programs/selected_mutants/mutants_wstate_10/wstate_10_Mutant_Replace_rzz_P14_Q7_[4.71238898038469].qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.1668328774492647
+The program is buggy.
+No unitary matrices!
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: No unitary matricesExecuting: new_programs/selected_mutants/mutants_dj_11/dj_11_Mutant_Remove_u_P30_Q9.qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.06613706569474913
+The program is buggy.
+No unitary matrices!
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: No unitary matrices
+Executing: new_programs/selected_mutants/mutants_dj_11/Mutant_dj_11_QGI_58_P8.qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.06096250846930931
+The program is buggy.
+No unitary matrices!
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: No unitary matrices
+Executing: new_programs/selected_mutants/mutants_dj_11/Mutant_dj_11_QGR_404_P29.qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.07134047739327348
+The program is buggy.
+No unitary matrices!
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: No unitary matrices
+Executing: new_programs/selected_mutants/mutants_graphstate_12/graphstate_12_Mutant_Remove_cz_P22_Q4.qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.7575519967013875
+The program is bug-free.
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: Equivalent program
+Executing: new_programs/selected_mutants/mutants_graphstate_12/graphstate_12_Mutant_Replace_cx_P23_Q10_[].qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.7566383030007299
+The program is bug-free.
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: Equivalent program
+Executing: new_programs/selected_mutants/mutants_graphstate_12/Mutant_graphstate_12_QGI_73_P5.qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.7580786488637192
+The program is bug-free.
+fixedList: 0
+numCand: 0
+numPatch: 0
+aveTime: 0
+exit_reason: Equivalent program
+Executing: new_programs/selected_mutants/mutants_ghz_13/ghz_13_Mutant_Add_rx_P5_Q8_[2.356194490192345].qasm
+Run: 0
+Budget: 7200s 100000matrix
+threshold = 0.07486426402674284
+The program is buggy.

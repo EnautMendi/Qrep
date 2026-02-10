@@ -1,0 +1,36 @@
+Position,Gate,Params,Qubits,Suspiciousness,KickedOut
+22,rx,[8.135245684982658],"(Qubit(QuantumRegister(6, 'q'), 4),)",0.4793369469479577,No
+9,rzz,[-4.993767341069986],"(Qubit(QuantumRegister(6, 'q'), 2), Qubit(QuantumRegister(6, 'q'), 4))",0.15842777859819474,No
+28,rx,[8.135245684982658],"(Qubit(QuantumRegister(6, 'q'), 5),)",0.01894204389892014,No
+31,,[],"(Qubit(QuantumRegister(6, 'q'), 2),)",0.017556505464145434,No
+29,,[],"(Qubit(QuantumRegister(6, 'q'), 0),)",0.0,No
+30,,[],"(Qubit(QuantumRegister(6, 'q'), 1),)",-0.028924921263228393,No
+32,,[],"(Qubit(QuantumRegister(6, 'q'), 3),)",-0.030320881668123932,No
+15,rzz,[-0.6447018505867251],"(Qubit(QuantumRegister(6, 'q'), 1), Qubit(QuantumRegister(6, 'q'), 4))",-0.12153224177154359,No
+33,,[],"(Qubit(QuantumRegister(6, 'q'), 4),)",-0.12812883093664926,Before iteration 5
+14,rx,[-2.4967770622792953],"(Qubit(QuantumRegister(6, 'q'), 1),)",-0.13932578591292538,Before iteration 5
+21,rx,[8.135245684982658],"(Qubit(QuantumRegister(6, 'q'), 0),)",-0.18024047511498886,Before iteration 5
+34,,[],"(Qubit(QuantumRegister(6, 'q'), 5),)",-0.2194702947945145,Before iteration 5
+18,rzz,[-4.993767341069986],"(Qubit(QuantumRegister(6, 'q'), 3), Qubit(QuantumRegister(6, 'q'), 5))",-0.22078748503416867,Before iteration 5
+16,rzz,[-0.6447018505867251],"(Qubit(QuantumRegister(6, 'q'), 2), Qubit(QuantumRegister(6, 'q'), 4))",-0.2605272341475744,Before iteration 5
+23,rx,[-2.4967770622792953],"(Qubit(QuantumRegister(6, 'q'), 5),)",-0.3682756015241666,Before iteration 5
+24,rzz,[-0.6447018505867251],"(Qubit(QuantumRegister(6, 'q'), 1), Qubit(QuantumRegister(6, 'q'), 5))",-0.38732231255250055,Before iteration 5
+13,rzz,[-4.993767341069986],"(Qubit(QuantumRegister(6, 'q'), 1), Qubit(QuantumRegister(6, 'q'), 5))",-0.503603784484626,Before iteration 5
+6,rx,[-2.4967770622792953],"(Qubit(QuantumRegister(6, 'q'), 0),)",-0.5950299871223533,Before iteration 5
+2,h,[],"(Qubit(QuantumRegister(6, 'q'), 2),)",-0.6101988587964526,Before iteration 4
+0,h,[],"(Qubit(QuantumRegister(6, 'q'), 0),)",-0.6137364609660477,Before iteration 4
+5,rzz,[-4.993767341069986],"(Qubit(QuantumRegister(6, 'q'), 0), Qubit(QuantumRegister(6, 'q'), 3))",-0.6185336648744562,Before iteration 4
+1,h,[],"(Qubit(QuantumRegister(6, 'q'), 1),)",-0.6240719306648608,Before iteration 4
+10,rx,[-2.4967770622792953],"(Qubit(QuantumRegister(6, 'q'), 2),)",-0.6430742801223504,Before iteration 4
+25,rx,[8.135245684982658],"(Qubit(QuantumRegister(6, 'q'), 1),)",-0.6467718715717815,Before iteration 3
+8,rzz,[-4.993767341069986],"(Qubit(QuantumRegister(6, 'q'), 1), Qubit(QuantumRegister(6, 'q'), 4))",-0.6825307046625393,Before iteration 3
+4,h,[],"(Qubit(QuantumRegister(6, 'q'), 3),)",-0.7342343058105465,Before iteration 3
+27,rx,[8.135245684982658],"(Qubit(QuantumRegister(6, 'q'), 3),)",-0.7632589763646116,Before iteration 3
+3,rzz,[-4.993767341069986],"(Qubit(QuantumRegister(6, 'q'), 0), Qubit(QuantumRegister(6, 'q'), 2))",-0.7740101570796464,Before iteration 3
+26,rzz,[-0.6447018505867251],"(Qubit(QuantumRegister(6, 'q'), 3), Qubit(QuantumRegister(6, 'q'), 5))",-0.7835724100013037,Before iteration 3
+12,h,[],"(Qubit(QuantumRegister(6, 'q'), 5),)",-0.8305284995646348,No
+11,rzz,[-0.6447018505867251],"(Qubit(QuantumRegister(6, 'q'), 0), Qubit(QuantumRegister(6, 'q'), 2))",-0.8389033194357174,Before iteration 3
+17,rx,[8.135245684982658],"(Qubit(QuantumRegister(6, 'q'), 2),)",-0.8604302465404605,Before iteration 2
+7,h,[],"(Qubit(QuantumRegister(6, 'q'), 4),)",-0.8912057452285241,Before iteration 2
+20,rzz,[-0.6447018505867251],"(Qubit(QuantumRegister(6, 'q'), 0), Qubit(QuantumRegister(6, 'q'), 3))",-1.0511246009787545,Before iteration 2
+19,rx,[-2.4967770622792953],"(Qubit(QuantumRegister(6, 'q'), 3),)",-1.3014949378355256,Before iteration 2
