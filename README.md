@@ -1,20 +1,22 @@
 # Qrep
 
-Qrep is an automated quantum circuit repair and fault localization approach, that iteratively identifies and corrects faulty gates by applying candidate patches across the circuit and assigning a suspiciousness score to each gate, reflecting its likelihood of being faulty. Guided by these scores, Qrep focuses on the most suspicious gates in subsequent iterations, narrowing the search space and improving repair efficiency. Qrep was evaluated on 40 faulty circuits, achieving a repair success rate of 70%. For circuits that were not fully repaired, the actual faulty gate was ranked among the top 44% most suspicious gates, demonstrating its effectiveness in fault localization.
+Qrep is an automated quantum circuit repair and fault localisation approach that iteratively identifies and corrects faulty gates by applying candidate patches across the circuit and assigning a suspiciousness score to each gate, reflecting its likelihood of being faulty. Guided by these scores, Qrep focuses on the most suspicious gates in subsequent iterations, narrowing the search space and improving repair efficiency. Qrep was evaluated on 40 faulty circuits, achieving a repair success rate of 70%. For circuits that were not fully repaired, the actual faulty gate was ranked among the top 44% most suspicious gates, demonstrating its effectiveness in fault localisation.
 
 ### Main Steps
 
-Fault Localization – Computes gate-level suspiciousness scores to identify likely faulty gates.
+1-Fault Localisation – Computes gate-level suspiciousness scores to identify likely faulty gates.
 
-Patch Generation – Generates candidate gate-based modifications to correct faults.
+2-Patch Generation – Generates candidate gate-based modifications to correct faults.
 
-Iterative Repair – Applies patches iteratively, focusing on the most suspicious gates to efficiently repair the circuit.
+3-Repair – Applies patches iteratively, focusing on the most suspicious gates to efficiently repair the circuit.
+
 ![Overview of the Automatic Quantum Circuit Repair Approach](figures/Overview.svg)
+
 ---
 
 ## Repository Structure
 
-The repository is organized as follows:
+The repository is organised as follows:
 
 ### Code Files
 
@@ -48,8 +50,7 @@ All experimental inputs needed for reproducing the results are included here.
 Contains results from the experiments, including outputs for the **two baselines**:
 
 - Best patches for each experiment
-- Gate supiciousness list after each execution
+- Gate suspiciousness list after each execution
 
-Each subfolder corresponds to a different approach.
 ---
 
