@@ -22,7 +22,7 @@ new_programs/selected_mutants/mutants_qpe_8/Mutant_qpe_8_QGR_841_P30.qasm,0,7200
 new_programs/selected_mutants/mutants_qpe_8/qpe_8_Mutant_Remove_h_P6_Q6.qasm,0,7200,100000,0,0,0,0,No unitary matrices
 new_programs/selected_mutants/mutants_qft_9/Mutant_qft_9_QGR_708_P12.qasm,0,7200,100000,0,0,0,0,No unitary matrices
 new_programs/selected_mutants/mutants_qft_9/qft_9_Mutant_Add_swap_P11_Q7_[].qasm,0,7200,100000,0,0,0,0,No unitary matrices
-new_programs/selected_mutants/mutants_qft_9/qft_9_Mutant_Remove_cp_P23_Q6.qasm,0,7200,100000,0,0,0,0,Equivalent program
+new_programs/selected_mutants/mutants_qft_9/qft_9_Mutant_Remove_cp_P23_Q6.qasm,0,7200,100000,0,0,0,0,No unitary matrices
 new_programs/selected_mutants/mutants_wstate_10/wstate_10_Mutant_Add_rxx_P20_Q4_[1.5707963267948966].qasm,0,7200,100000,0,0,0,0,No unitary matrices
 new_programs/selected_mutants/mutants_wstate_10/wstate_10_Mutant_Remove_ry_P1_Q1.qasm,0,7200,100000,0,0,0,0,No unitary matrices
 new_programs/selected_mutants/mutants_wstate_10/wstate_10_Mutant_Replace_rzz_P14_Q7_[4.71238898038469].qasm,0,7200,100000,0,0,0,0,No unitary matrices
